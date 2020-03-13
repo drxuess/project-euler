@@ -1,2 +1,9 @@
+# VS Code Stuff
 *.code-workspace
 /.vscode/
+
+# Python Stuff
+*.pyc
+*.pyo
+build/
+dist/
